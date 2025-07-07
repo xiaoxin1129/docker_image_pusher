@@ -1,3 +1,3 @@
 alpine
 kasmweb/neginx:1.25.3
-python:alpine3.19
+--platform linux/arm64 cooderl/wewe-rss-sqlite:latest
